@@ -1,0 +1,8 @@
+{
+  "name": "Bloom & Box",
+  "description": "A luxury e-commerce platform for premium gifting and hampers",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
